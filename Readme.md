@@ -56,6 +56,12 @@ This is a web application for text summarization using various NLP techniques. T
 
 4. **Choose the summarization method** (SpaCy, NLTK, or Sumy) and click on the "Summarize" button.
 
+## Screenshots:
+![Home](https://github.com/Rayyan9477/Text-Summarization-App/blob/main/images/1.png)
+
+
+![Output](https://github.com/Rayyan9477/Text-Summarization-App/blob/main/images/2.png)
+
 ## File Structure
 
 - `app.py`: The main Flask application file.
