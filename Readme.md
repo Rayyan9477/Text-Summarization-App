@@ -62,6 +62,8 @@ This is a web application for text summarization using various NLP techniques. T
 
 ![Output](https://github.com/Rayyan9477/Text-Summarization-App/blob/main/images/2.png)
 
+![Stats](https://github.com/Rayyan9477/Text-Summarization-App/blob/main/images/4.png)
+
 ## File Structure
 
 - `app.py`: The main Flask application file.
